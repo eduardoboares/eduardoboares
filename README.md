@@ -18,7 +18,7 @@
 
 ---
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-pereira-boares/">
