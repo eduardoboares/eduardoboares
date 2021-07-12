@@ -12,7 +12,7 @@
 <h3 align="center">My GitHub Analytics</h3>
 
 <p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?&username=eduardopereiraboares&hide=prs,issues,contribs&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&&show_icons=true&theme=midnight-purple" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?&username=eduardopereiraboares&hide=prs,issues,contribs&hide_border=true&include_all_commits=true&include_all_prs=true&count_private=true&show_icons=true&theme=midnight-purple" />
    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopereiraboares&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
