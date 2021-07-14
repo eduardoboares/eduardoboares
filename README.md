@@ -22,10 +22,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-pereira-boares/">
-    <img height="25px" src="https://img.shields.io/badge/-Eduardo%20Pereira%20Boares-000000?style=flat-square&logo=Linkedin&logoColor=7e3ace&link=linkedin.com/in/eduardo-pereira-boares/" />
+    <img height="25px" src="https://img.shields.io/badge/-LINKEDIN-000000?style=flat-square&logo=Linkedin&logoColor=7e3ace&link=linkedin.com/in/eduardo-pereira-boares/" />
   </a>
 
   <a href="mailto:eduardop.boares@gmail.com">
-    <img height="25px" src="https://img.shields.io/badge/-eduardop.boares@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=7e3ace&link=mailto:eduardop.boares@gmail.com" />
+    <img height="25px" src="https://img.shields.io/badge/-GMAIL-000000?style=flat-square&logo=Gmail&logoColor=7e3ace&link=mailto:eduardop.boares@gmail.com" />
   </a>
 </p>
