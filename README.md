@@ -48,8 +48,8 @@
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-pereira-boares/">
-    <img height="25px" src="https://img.shields.io/badge/-LINKEDIN-000000?style=flat-square&logo=Linkedin&logoColor=7e3ace&link=linkedin.com/in/eduardo-pereira-boares/" />
+  <a href="https://www.linkedin.com/in/eduardoboares/">
+    <img height="25px" src="https://img.shields.io/badge/-LINKEDIN-000000?style=flat-square&logo=Linkedin&logoColor=7e3ace&link=linkedin.com/in/eduardoboares/" />
   </a>
   
   <a href="https://www.instagram.com/eduardo_boares/">
