@@ -6,7 +6,7 @@
   Hey 👋, I'm a JavaScript Full-Stack Developer (React, React Native, Angular, Node.js).
 </p>
 <p align="center">
-   "Não espere o futuro mudar sua vida, porque o futuro será a consequência do presente. Parasita hoje, um coitado amanhã. Corrida hoje, vitória amanhã. Nunca esqueça disso, irmão." - Racionais MC's.
+   "Não espere o futuro mudar sua vida, porque o futuro será a consequência do presente. Parasita hoje, um coitado amanhã. Corrida hoje, vitória amanhã." - Racionais MC's.
 </p>
 
 ---
