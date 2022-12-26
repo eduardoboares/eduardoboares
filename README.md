@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/EduardoPereiraBoares/eduardopereiraboares/blob/main/gifs/readme-my-name.gif" alt="animated" />
+  <img src="https://github.com/eduardoboares/eduardoboares/blob/main/gifs/readme-my-name.gif" alt="animated" />
 </div>
 
 <p align="center">
@@ -14,14 +14,14 @@
 <h3 align="center">My GitHub Analytics</h3>
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?&username=eduardopereiraboares&hide=prs,issues,contribs&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" />
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopereiraboares&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?&username=eduardoboares&hide=prs,issues,contribs&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoboares&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
 <div align="center">
   <h3 align="center">Watch my contribution graph get eaten by the snake 🐍</h3>
   
-  <img src="https://github.com/EduardoPereiraBoares/eduardopereiraboares/blob/output/github-contribution-grid-snake.svg" alt="animated" />
+  <img src="https://github.com/eduardoboares/eduardoboares/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 </div>
 
 <h3 align="center">Technologies I work</h3>
