@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/eduardoboares/eduardoboares/blob/main/gifs/readme-my-name.gif" alt="animated" />
+  <img src="https://github.com/eduardoboares/eduardoboares/blob/main/gifs/readme-my-name2.gif" alt="animated" />
 </div>
 
 <p align="center">
