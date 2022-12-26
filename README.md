@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/EduardoPereiraBoares/eduardopereiraboares/blob/main/gifs/readme-my-name.gif" alt="animated" />
-  </div>
+</div>
 
 <p align="center">
   Hey 👋, I'm a JavaScript Full-Stack Developer (React, React Native, Angular, Node.js).
@@ -18,12 +18,11 @@
    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopereiraboares&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
-<p align="center">
-  Watch my contribution graph get eaten by the snake 🐍
+<div align="center">
+  <h3 align="center">Watch my contribution graph get eaten by the snake 🐍</h3>
+  
   <img src="https://github.com/EduardoPereiraBoares/eduardopereiraboares/blob/output/github-contribution-grid-snake.svg" alt="animated" />
-</p>
-
----
+</div>
 
 <h3 align="center">Technologies I work</h3>
 
