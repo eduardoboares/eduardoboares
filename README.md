@@ -1,4 +1,6 @@
-<h1 align="center">Eduardo Pereira Boares</h1>
+<div align="center">
+  <img src="https://github.com/EduardoPereiraBoares/eduardopereiraboares/blob/main/gifs/readme-my-name.gif" alt="animated" />
+  </div>
 
 <p align="center">
   Hey 👋, I'm a JavaScript Full-Stack Developer (React, React Native, Angular, Node.js).
