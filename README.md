@@ -13,7 +13,7 @@
 
 <h3 align="center">My GitHub Analytics</h3>
 <p align="center">
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=eduardoboares&theme=midnight-purple&hide_border=true&border_radius=0&date_format=j%2Fn%5B%2FY%5D&card_width=430" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=eduardoboares&theme=midnight-purple&hide_border=true&border_radius=0&date_format=j%2Fn%5B%2FY%5D&card_width=435" />
    <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardoboares&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
