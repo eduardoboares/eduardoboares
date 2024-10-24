@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Hey 👋, I'm a JavaScript Full-Stack Developer (React, React Native, Angular, Node.js).
+  Hey 👋, I'm a Senior Full-Stack Developer (React, React Native, Angular, Node.js, .NET).
 </p>
 <p align="center">
    "Não espere o futuro mudar sua vida, porque o futuro será a consequência do presente. Parasita hoje, um coitado amanhã. Corrida hoje, vitória amanhã." - Racionais MC's.
@@ -11,6 +11,20 @@
 
 ---
 
+<h3 align="center">🌐 I'm founder of Contcode Community</h3>
+<div align="center">
+  <a href="https://www.contcode.io">
+    <img width="504" src="https://www.contcode.io/images/contcode-logo.png">
+  </a>
+</div>
+<br />
+<p align="center">
+  A super engaged dev community! Access now:
+  <a href="https://www.contcode.io">
+    www.contcode.io
+  </a>
+</p>
+<br />
 <h3 align="center">My GitHub Analytics</h3>
 <p align="center">
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=eduardoboares&theme=midnight-purple&hide_border=true&border_radius=0&date_format=j%2Fn%5B%2FY%5D&card_width=435" />
@@ -29,6 +43,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,7 +54,7 @@
   <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 
 ---
